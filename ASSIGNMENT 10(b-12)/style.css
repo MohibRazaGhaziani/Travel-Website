@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.height img{
+    height: 200px;
+}
+.footer {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+}
+.footer .social-icons a {
+    margin-right: 10px;
+    color: #343a40;
+    text-decoration: none;
+}
+.footer .social-icons a:hover {
+    color: #007bff;
+}
+
+.hjj{
+    color: rgb(88, 88, 163) ;
+}
+
+h5{
+    color: rgb(88, 88, 163);
+}
